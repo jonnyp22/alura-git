@@ -1,0 +1,17 @@
+.derecho{
+
+    position: relative;
+    top: -45px;
+
+}
+#columnaI {
+    position:relative;
+    top:0px;
+    left:100px;
+    right: 50px;
+    width:200px;
+    }
+#columnaD {
+    margin-left:220px;
+    margin-right:20px;
+    }
